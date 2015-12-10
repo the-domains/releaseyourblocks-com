@@ -1,7 +1,7 @@
 name: releaseyourblocks.com
 favicon: null
-layout_spectrum: 0.6392193732317537
-typography_spectrum: 0.30869982624426484
+layout_spectrum: 0.92635
+typography_spectrum: 0.30622
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7847604707349092
-  lightness: 0.996801475295797
-  saturation: 0.6657890856731683
+    - '#ffffff'
+    - '#a7b6bb'
+    - '#63787d'
+    - '#232b2d'
+    - '#c8828a'
+  brandStrength: 0.75
+  lightness: 0.6875
+  saturation: 0.6875
   rhythmicContrast: 0.19909129571169615
 purpose: []
