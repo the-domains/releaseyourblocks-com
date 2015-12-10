@@ -1,29 +1,41 @@
-name: releaseyourblocks.com
-favicon: null
-layout_spectrum: 0.98081
-typography_spectrum: 0.97949
 title: RYB
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.6340426
+favicon: null
+name: releaseyourblocks.com
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.375
+  saturation: 0.6875
   brandColors:
     - '#0793d7'
     - '#c9e3ef'
     - '#0d0a04'
     - '#6e5573'
     - '#fd7b2e'
-  brandStrength: 0.375
   lightness: 0.5625
-  saturation: 0.6875
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.97949
