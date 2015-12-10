@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RYB]]></title>
         <description><![CDATA[RYB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/releaseyourblocks-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 18:00:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 18:01:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/releaseyourblocks-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e86efdf6-1903-4f87-a5ce-af3dd64b8941.jpg">]]></description>
+            <link>https://thegrid.ai/releaseyourblocks-com/cc3ea9a4-0d9e-47b3-aa3a-c880562672e3/index.html</link>
+            <guid isPermaLink="false">cc3ea9a4-0d9e-47b3-aa3a-c880562672e3</guid>
+            <pubDate>Thu, 10 Dec 2015 18:00:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://38.media.tumblr.com/d501b835e3130a3f0fbe940b5043fbcc/tumblr_inline_nkgcrpq3vy1t2ksl8.jpg">]]></description>
-            <link>undefined7b535cc2-eb4f-4253-89da-5a408e2520e1/index.html</link>
+            <link>https://thegrid.ai/releaseyourblocks-com/7b535cc2-eb4f-4253-89da-5a408e2520e1/index.html</link>
             <guid isPermaLink="false">7b535cc2-eb4f-4253-89da-5a408e2520e1</guid>
             <pubDate>Thu, 10 Dec 2015 18:00:14 GMT</pubDate>
         </item>
