@@ -2,6 +2,7 @@ name: releaseyourblocks.com
 favicon: null
 layout_spectrum: 0.47833
 typography_spectrum: 0.30622
+title: RYB
 cta:
   domain: null
   bucket: null
