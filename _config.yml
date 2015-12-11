@@ -1,41 +1,41 @@
-name: releaseyourblocks.com
-favicon: null
-layout_spectrum: 0.55638
-typography_spectrum: 0.92256
 title: releaseyourblocks.com
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.6851064
+favicon: null
+name: releaseyourblocks.com
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
 color:
+  brandStrength: 0.812766
+  lightness: 1
+  saturation: 0.125
+  rhythmicContrast: 0.75
   brandColors:
     - '#d7dcdf'
     - '#1e2e2e'
     - '#83a2b4'
     - '#58767f'
     - '#a2784d'
-  brandStrength: 0.0625
-  lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.92256
