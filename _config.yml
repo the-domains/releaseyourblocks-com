@@ -1,16 +1,16 @@
 title: releaseyourblocks.com
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.6851064
+layout_spectrum: 0.5340425
 favicon: null
 name: releaseyourblocks.com
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -28,14 +28,14 @@ collections:
       path: /rss.xml
       number: 10
 color:
-  brandStrength: 0.812766
-  lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 0.75
+  brandStrength: 0.2
+  lightness: 0.1595745
+  saturation: 0.4872341
+  rhythmicContrast: 0.4723404
   brandColors:
     - '#d7dcdf'
     - '#1e2e2e'
     - '#83a2b4'
     - '#58767f'
     - '#a2784d'
-typography_spectrum: 0.92256
+typography_spectrum: 0.04893617
