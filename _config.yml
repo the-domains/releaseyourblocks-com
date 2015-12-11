@@ -1,7 +1,7 @@
 name: releaseyourblocks.com
 favicon: null
-layout_spectrum: 0.01678
-typography_spectrum: 0.70969
+layout_spectrum: 0.55638
+typography_spectrum: 0.92256
 title: releaseyourblocks.com
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#83a2b4'
     - '#58767f'
     - '#a2784d'
-  brandStrength: 0.4375
-  lightness: 0.5
-  saturation: 0.375
-  rhythmicContrast: 0
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
