@@ -2,7 +2,7 @@ name: releaseyourblocks.com
 favicon: null
 layout_spectrum: 0.05391
 typography_spectrum: 0.18246
-title: RYB
+title: releaseyourblocks.com
 collections:
   - index:
       path: /
