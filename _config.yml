@@ -1,35 +1,21 @@
 title: RYB
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.6340426
-favicon: null
-name: releaseyourblocks.com
 purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.375
   saturation: 0.6875
+  brandStrength: 0.375
+  rhythmicContrast: 0.5
   brandColors:
     - '#0793d7'
     - '#c9e3ef'
@@ -37,5 +23,19 @@ color:
     - '#6e5573'
     - '#fd7b2e'
   lightness: 0.5625
-  rhythmicContrast: 0.5
+cta:
+  version: null
+  bucket: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: releaseyourblocks.com
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.97949
+layout_spectrum: 0.9747049
